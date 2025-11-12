@@ -1,0 +1,13 @@
+id,path,title,category,effective_date,confidentiality,department,product_type
+DOC001,/mnt/data/rag_week1/docs/DOC001_投資信託_短期運用_商品概要_サクラ短期国債ファンド.md,投資信託_短期運用_商品概要_サクラ短期国債ファンド,商品概要書,2025-05-01,internal,投信商品部,投資信託
+DOC002,/mnt/data/rag_week1/docs/DOC002_投資信託_株式インデックス_商品概要_ミズホTOPIXインデックス.md,投資信託_株式インデックス_商品概要_ミズホTOPIXインデックス,商品概要書,2024-12-15,public,投信商品部,投資信託
+DOC003,/mnt/data/rag_week1/docs/DOC003_社内規程_販売勧誘方針_2025改定.md,社内規程_販売勧誘方針_2025改定,社内規程,2025-04-01,internal,コンプライアンス統括,
+DOC004,/mnt/data/rag_week1/docs/DOC004_FAQ_手数料_よくある質問_投信.md,FAQ_手数料_よくある質問_投信,FAQ,2025-06-30,public,お客様サポート,投資信託
+DOC005,/mnt/data/rag_week1/docs/DOC005_社内通知_短期運用の手続き変更_2025-07-10.md,社内通知_短期運用の手続き変更_2025-07-10,社内通知,2025-07-10,internal,オペレーション企画,
+DOC006,/mnt/data/rag_week1/docs/DOC006_目論見書_特定投信_2025年版_サクラ短期国債ファンド.md,目論見書_特定投信_2025年版_サクラ短期国債ファンド,目論見書,2025-05-01,public,投信商品部,投資信託
+DOC007,/mnt/data/rag_week1/docs/DOC007_運用報告_四半期_2025Q2_サクラ短期国債ファンド.md,運用報告_四半期_2025Q2_サクラ短期国債ファンド,運用報告書,2025-07-15,public,運用部,投資信託
+DOC008,/mnt/data/rag_week1/docs/DOC008_手続案内_解約_投資信託_カットオフタイム.md,手続案内_解約_投資信託_カットオフタイム,手続案内,2025-08-01,public,お客様サポート,投資信託
+DOC009,/mnt/data/rag_week1/docs/DOC009_比較資料_短期運用_手数料比較_3商品.md,比較資料_短期運用_手数料比較_3商品,比較資料,2025-06-01,internal,投信商品部,投資信託
+DOC010,/mnt/data/rag_week1/docs/DOC010_社内規程_苦情対応手順_2024制定.md,社内規程_苦情対応手順_2024制定,社内規程,2024-02-01,internal,コンプライアンス統括,
+DOC011,/mnt/data/rag_week1/docs/DOC011_用語集_投資信託_基準価額と信託報酬.md,用語集_投資信託_基準価額と信託報酬,用語集,2024-09-01,public,広報,投資信託
+DOC012,/mnt/data/rag_week1/docs/DOC012_社内通知_改定履歴_販売勧誘方針.md,社内通知_改定履歴_販売勧誘方針,社内通知,2025-03-20,internal,コンプライアンス統括,

@@ -1,0 +1,5 @@
+{"qid": "Q001", "question": "サクラ短期国債ファンドの信託報酬は年率いくら？", "answers": ["0.18%", "年率0.18%"], "must_have_source_id": "DOC006"}
+{"qid": "Q002", "question": "投資信託の解約申込のカットオフ時刻は何時？（最新ルール）", "answers": ["14:00", "午後2時"], "must_have_source_id": "DOC008"}
+{"qid": "Q003", "question": "販売勧誘の電話は何時から何時まで可能？", "answers": ["8:00〜21:00", "8時から21時"], "must_have_source_id": "DOC003"}
+{"qid": "Q004", "question": "TOPIXに連動するインデックスファンドの信託財産留保額は？", "answers": ["0.1%", "0.1％"], "must_have_source_id": "DOC002"}
+{"qid": "Q005", "question": "短期運用ファンドの解約申込締切時刻が前倒しされたのはいつから？", "answers": ["2025/08/01", "2025-08-01"], "must_have_source_id": "DOC005"}
